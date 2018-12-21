@@ -9,7 +9,7 @@ paginate = 5
   subtitle = "A simple theme for Hugo"
 
 [params.logo]
-  logoText = "hello friend"
+  logoText = "One slime to rule them all"
 #   or
 #
 #   path = "/img/your-example-logo.svg"
@@ -18,7 +18,7 @@ paginate = 5
 [menu]
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "About Me"
     url = "/about"
   [[menu.main]]
     identifier = "showcase"
