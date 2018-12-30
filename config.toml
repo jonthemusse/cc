@@ -9,10 +9,10 @@ paginate = 5
   subtitle = "A simple theme for Hugo"
 
 [params.logo]
-  logoText = "One slime to rule them all"
+#  logoText = "One slime to rule them all"
 #   or
 #
-#   path = "/img/your-example-logo.svg"
+path = "/img/hero.png"
 #   alt = "Your example logo alt text"
 
 [menu]
@@ -22,6 +22,6 @@ paginate = 5
     url = "/about"
   [[menu.main]]
     identifier = "showcase"
-    name = "Showcase"
+    name = "About Slime"
     url = "/showcase"
 

@@ -1,5 +1,5 @@
 +++
-title = "Showcase"
+title = "About slime"
 date = "2018-12-20"
 author = "Mystery Kitten"
 +++
@@ -17,40 +17,23 @@ Very. Unless you are a mysterious kitten, in which case it is quite safe and mar
 ### A recipe of basic slime follows
 <pre>
   <code class="language-css">
-  /* PostCSS code by PrismJS */
+This is a basic slime recipe
+  One cup of air
+  Another cup of rainbow
+  Three cups of Unicorn giggles
+  A pinch of a little boy
 
-  pre {
-    background: #1a1a1d;
-    padding: 20px;
-    border-radius: 8px;
-    font-size: 1rem;
-    overflow: auto;
-
-    @media (--phone) {
-      white-space: pre-wrap;
-      word-wrap: break-word;
-    }
-
-    code {
-      background: none !important;
-      color: #ccc;
-      padding: 0;
-      font-size: inherit;
-
-      .dark-theme & {
-        color: inherit;
-      }
-    }
-  }
+  Mix ingredients throughoutly and bury in the back yard
+  Dig up at next new moon
   </code>
 </pre>
 
 
-#### Are there any safe alternatives to slime?
+## Are there any safe alternatives to slime?
 
 Yes, you can choose to live in utter boredom and not look at slime. Be aware that if you are _*not*_ a musterioys kitten, even a sidelong glance through a mirror across a closed door in a dark room might be enough exposure to start feeling the effects of slime.
 
-#### What are the effects of slime?
+## What are the effects of slime?
 
 - Things
 - More things with hard words
