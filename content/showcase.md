@@ -6,7 +6,7 @@ author = "Mystery Kitten"
 
 ## What is slime?
 
-![image alt text](/img/slime_monster.png)
+![image alt text](/img/blue_slime.png)
 
 Slime is a gooey, sticky substance made by mixing a compound called _pancolorum bugenum_, or colloquially knows as **rainbow sneeze**, with swamp thing extract. Slime was first invented in the year 800 AD, by a stable hand named Fred.
 
