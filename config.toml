@@ -22,6 +22,6 @@ path = "/img/hero.png"
     url = "/about"
   [[menu.main]]
     identifier = "showcase"
-    name = "About Slime"
+    name = "Slime facts"
     url = "/showcase"
 
