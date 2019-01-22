@@ -1,5 +1,5 @@
 +++
-title = "About slime"
+title = "Slime facts"
 date = "2018-12-20"
 author = "Mystery Kitten"
 +++
